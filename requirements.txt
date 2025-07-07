@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+requests
+py-cord
+aiohttp
+# This file lists the dependencies required for the Discord bot to function.
+# Make sure to install them using pip:  pip install -r requirements.txt
